@@ -6,7 +6,7 @@ Welcome to this guide on handling asynchronous operations in JavaScript! This re
 
 1. [Introduction to Asynchronous Programming](#introduction-to-asynchronous-programming)
 2. [Promises](#promises)
-3. [Async/Await](#async-await)
+3. [Async/Await](#asyncawait)
 4. [AJAX](#ajax)
 
 ## Introduction to Asynchronous Programming
